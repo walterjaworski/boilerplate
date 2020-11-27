@@ -30,5 +30,9 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
-# vercel
-.vercel
+# sw stuff
+public/sw.js
+public/workbox-*.js
+
+# storybook
+storybook-static
